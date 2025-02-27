@@ -106,9 +106,6 @@ Streak Calendar is open source to encourage transparency and collaboration. Cont
 
 If you're enjoying using Streak Calendar, drop a ⭐️ on the repo!
 
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=ilyaizen/streak-calendar&type=Date)](https://star-history.com/#ilyaizen/streak-calendar&Date)
 
 ## Links
 
